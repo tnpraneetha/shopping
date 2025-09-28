@@ -55,7 +55,7 @@
       <url>http://13.60.90.129:8081/repository/maven-snapshots/</url>
     </snapshotRepository>
     <repository>
-      <id>nexus-repo</id>
+      <id>forum_shopping_website</id>
       <url>http://13.60.90.129:8081/repository/maven-releases/</url>
     </repository>
   </distributionManagement>
