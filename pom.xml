@@ -51,12 +51,12 @@
 
   <distributionManagement>
     <snapshotRepository>
-      <id>nexusRepo</id>
-      <url>http://34.208.218.12:8081/repository/sample-snapshots/</url>
+      <id>nexus-snapshots</id>
+      <url>http://13.60.90.129:8081/repository/maven-snapshots/</url>
     </snapshotRepository>
     <repository>
-      <id>nexusRepo</id>
-      <url>http://44.202.251.20:8081/repository/flm-releases/</url>
+      <id>nexus-repo</id>
+      <url>http://13.60.90.129:8081/repository/maven-releases/</url>
     </repository>
   </distributionManagement>
 
