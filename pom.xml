@@ -51,12 +51,12 @@
 
   <distributionManagement>
     <snapshotRepository>
-      <id>nexus-snapshots</id>
-      <url>http://13.60.90.129:8081/repository/maven-snapshots/</url>
+      <id>forum_shopping_website</id>
+      <url>http://16.171.231.224:8081/repository/sample-snapshots/</url>
     </snapshotRepository>
     <repository>
       <id>forum_shopping_website</id>
-      <url>http://13.60.90.129:8081/repository/forum_shopping_website/</url>
+      <url>http://16.171.231.224:8081/repository/forum_shopping_website/</url>
     </repository>
   </distributionManagement>
 
